@@ -12,7 +12,7 @@ The inputs to this algorithms are time (hour, day, month, and year), place (lati
       Act 302 – Murder, 
       Act 363 – Kidnapping. 
 
-Output is the class of crime that is likely to have occurred. Tried multiple classification algorithms, such as KNN (K-Nearest Neighbors), Decision Trees, and Random Forests. Such clusters can be visually represented using a geo-spatial plot of the crime overlayed on the map of the police jurisdiction. The densely populated group of crimes is used to visually locate the ‘hot-spots’ of crime. We also perform multiple classification tasks – first try to predict which of 6 classes of crimes are likely to have occurred with the help of Geo-spatial techniques and later try to differentiate between violent and non-violent crimes.
+Output is the class of crime that is likely to have occurred. Tried multiple classification algorithms, such as KNN (K-Nearest Neighbors), Decision Trees, and Random Forests. Such clusters can be visually represented using a geo-spatial plot of the crime overlayed on the map of the police jurisdiction. The densely populated group of crimes is used to visually locate the ‘hot-spots’ of crime. Also performed multiple classification tasks – first try to predict which of 6 classes of crimes are likely to have occurred with the help of Geo-spatial techniques and later try to differentiate between violent and non-violent crimes.
 
 
 Module Description :
