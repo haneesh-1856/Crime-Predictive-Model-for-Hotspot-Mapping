@@ -22,3 +22,7 @@ Dataset & Preprocessing,
 KNN( K- Nearest neighbors), 
 Decision Tree, 
  Random Forest.
+
+Journal article : https://ijaem.net/issue_dcp/Crime%20Predictive%20Model%20for%20Hotspot%20Mapping.pdf
+
+journal certificate : https://ijaem.net/issue_certificate/639849.pdf#:~:text=Crime%20Predictive%20Model%20for%20Hotspot%20Mapping%20Volume%205,%20Issue%203,
